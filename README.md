@@ -4,23 +4,3 @@
 
 <h3>Instructions to run the web app</h3>
 <p>The web app is hosted on Netlify</p>
-
-<h3>Team members and their role:</h3>
-<ol>
-    <li>
-        <h3>Jovin Nicholas (002822737)</h3>
-        <p>Worked on developing the restaurants list page of the webpage and Google API integration</p>
-    </li>
-    <li>
-        <h3>Abhishek Unnithan (002839036)</h3>
-        <p>Worked on developing the restaurant page and integration with violation data from Analyze Boston endpoint</p>
-    </li>
-    <li>
-        <h3>Anirudha Dudhasagare (002697516)</h3>
-        <p>Worked on developing the login and cart</p>
-    </li>
-    <li>
-        <h3>Daryl Fernandes (002834250)</h3>
-        <p>Worked on developing the menu, deployment to netlify and restaurant owner login flow</p>
-    </li>
-</ol>
