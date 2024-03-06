@@ -4,3 +4,5 @@
 
 <h3>Instructions to run the web app</h3>
 <p>The web app is hosted on Netlify</p>
+
+<img src ="./safe-dine.jpg" />
